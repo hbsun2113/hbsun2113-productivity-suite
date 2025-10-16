@@ -1,0 +1,34 @@
+{
+  "name": "hbsun2113-plugins",
+  "owner": {
+    "name": "hbsun2113",
+    "email": "[email protected]"
+  },
+  "plugins": [
+    {
+      "name": "hbsun2113-productivity-suite",
+      "source": {
+        "source": "github",
+        "repo": "hbsun2113/claude-code-productivity-suite"
+      },
+      "description": "A comprehensive productivity plugin with slash commands, agents, hooks, and batch editing tools",
+      "version": "1.0.0",
+      "author": {
+        "name": "hbsun2113",
+        "email": "[email protected]"
+      },
+      "homepage": "https://github.com/hbsun2113/claude-code-productivity-suite",
+      "repository": "https://github.com/hbsun2113/claude-code-productivity-suite",
+      "license": "MIT",
+      "keywords": [
+        "productivity",
+        "workflow",
+        "chinese",
+        "batch-edit",
+        "code-analysis",
+        "git",
+        "development"
+      ]
+    }
+  ]
+}

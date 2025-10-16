@@ -1,0 +1,26 @@
+# Backup files
+batch_edit/backups/*
+!batch_edit/backups/.gitkeep
+
+# Test results
+batch_edit/tests/results/*
+!batch_edit/tests/results/.gitkeep
+
+# JSON operation files (examples only)
+batch_edit/jsonSet/*
+!batch_edit/jsonSet/.gitkeep
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.bak

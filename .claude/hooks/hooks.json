@@ -1,0 +1,13 @@
+{
+  "PostToolUse": [
+    {
+      "matcher": "Edit|MultiEdit|Write",
+      "hooks": [
+        {
+          "type": "command",
+          "command": "${CLAUDE_PLUGIN_ROOT}/.claude/hooks/markdown_formatter.py"
+        }
+      ]
+    }
+  ]
+}
