@@ -12,7 +12,7 @@
         "repo": "hbsun2113/hbsun2113-productivity-suite"
       },
       "description": "A comprehensive productivity plugin with slash commands, agents, hooks, and batch editing tools",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "author": {
         "name": "hbsun2113",
         "email": "[email protected]"

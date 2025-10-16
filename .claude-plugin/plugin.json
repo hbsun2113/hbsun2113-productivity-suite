@@ -1,6 +1,6 @@
 {
   "name": "hbsun2113-productivity-suite",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A comprehensive productivity plugin for Claude Code with slash commands, agents, hooks, and batch editing tools",
   "author": {
     "name": "hbsun2113",
@@ -19,8 +19,18 @@
     "git",
     "development"
   ],
-  "commands": "./.claude/commands",
-  "agents": "./.claude/agents",
+  "commands": [
+    "./.claude/commands/explore.md",
+    "./.claude/commands/gitCommit.md",
+    "./.claude/commands/requirementDoc.md",
+    "./.claude/commands/rev-engine.md",
+    "./.claude/commands/todoDoc.md"
+  ],
+  "agents": [
+    "./.claude/agents/code-reviewer.md",
+    "./.claude/agents/library-usage-researcher.md",
+    "./.claude/agents/memory-network-builder.md"
+  ],
   "hooks": "./.claude/hooks/hooks.json",
   "mcpServers": {}
 }
