@@ -9,7 +9,7 @@
       "name": "hbsun2113-productivity-suite",
       "source": {
         "source": "github",
-        "repo": "hbsun2113/claude-code-productivity-suite"
+        "repo": "hbsun2113/hbsun2113-productivity-suite"
       },
       "description": "A comprehensive productivity plugin with slash commands, agents, hooks, and batch editing tools",
       "version": "1.0.0",
@@ -17,8 +17,8 @@
         "name": "hbsun2113",
         "email": "[email protected]"
       },
-      "homepage": "https://github.com/hbsun2113/claude-code-productivity-suite",
-      "repository": "https://github.com/hbsun2113/claude-code-productivity-suite",
+      "homepage": "https://github.com/hbsun2113/hbsun2113-productivity-suite",
+      "repository": "https://github.com/hbsun2113/hbsun2113-productivity-suite",
       "license": "MIT",
       "keywords": [
         "productivity",
