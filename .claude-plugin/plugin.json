@@ -1,6 +1,6 @@
 {
   "name": "hbsun2113-productivity-suite",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A comprehensive productivity plugin for Claude Code with slash commands, agents, hooks, and batch editing tools",
   "author": {
     "name": "hbsun2113",
@@ -19,6 +19,8 @@
     "git",
     "development"
   ],
+  "commands": "./.claude/commands",
+  "agents": "./.claude/agents",
   "hooks": "./.claude/hooks/hooks.json",
   "mcpServers": {}
 }
